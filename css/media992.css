@@ -1,0 +1,113 @@
+@media screen and (max-width: 992px) and (min-width: 769px) {
+  html,
+  .body {
+    width: 992px;
+  }
+
+  .body__header-dropdownmenu-list {
+    margin-left: -8px;
+  }
+
+  .body__header-logo {
+    margin-left: -25px;
+    margin-right: 0px;
+    width: 400px;
+  }
+
+  .body__header-navigation {
+    margin-right: -15px;
+  }
+
+  .body__header-search {
+    margin: 5px ;
+  }
+
+  .body__header-item {
+    padding: 5px 5px 5px 10px;
+  }
+
+  .body__header-h1 {
+    padding-top: 3px;
+    font-size: 30px;
+  }
+
+  .body__header-h2 {
+    font-size: 25px;
+  }
+
+  .body__tabs-container-content-h2 {
+    margin-top: -5px;
+    padding-bottom: 5px;
+    font-size: 23px;
+  }
+
+  .body__tabs-container-content-quote,
+  .body__tabs-container-content-text,
+  .body__tabs-container-comments-userpost-comment-data {
+    font-size: 17px;
+  }
+
+  .body__header-list,
+  .body__tabs-content-article,
+  .body__tabs-comments-discusion,
+  .body__tabs-container-comments-userpost-comment-username,
+  .body__tabs-container-comments-userpost-comment-text,
+  .body__tabs-container-comments-userpost-comment-text-like,
+  .body__tabs-container-comments-userpost-comment-text-reply,
+  .body__tabs-container-comments-userpost-comment-text-number,
+  .footer {
+    font-size: 15px;
+  }
+
+  .body__tabs-container-comments-userpost-comment-data {
+    min-height: 73px;
+  }
+
+  .body__tabs-container-comments-userpost-comment-username {
+    margin-bottom: -15px;
+  }
+
+  .body__tabs-container-comments-userpost-comment-text {
+    line-height: 1.3;
+    margin-bottom: 3px;
+  }
+
+  .body__tabs-container-comments-userpost-comment-avatar,
+  .body__tabs-container-comment-avatar {
+    width: 70px;
+    height: 70px;
+    margin-bottom: 20px;
+  }
+
+  .body__tabs-container-content-image-mango {
+    max-width: 300px;
+    margin: 5px 0px 5px 5px;
+  }
+
+  .body__tabs-container-content-image-photo {
+    max-width: 420px;
+    margin: 5px 5px 0px 0px;
+  }
+
+  .body__tabs-container-comments-userpost-comment{
+    width: 800px;
+  }
+
+  .body__tabs-container-comments-userpost-comment-text{
+    max-width: 750px;
+  }
+
+  .body__tabs-container-comments-form {
+    max-width: 710px;
+    margin-top: 15px;
+    margin-left: 5px;
+  }
+
+  .body__tabs-container-comments{
+    margin-top: 20px;
+  }
+
+  .footer {
+    margin-left: -30px;
+  }
+}

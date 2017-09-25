@@ -1,0 +1,74 @@
+@media screen and (max-width: 768px) and (min-width: 481px) {
+  html,
+  .body {
+    width: 768px;
+  }
+
+  .body__header-dropdownmenu-list {
+    margin-left: -8px;
+  }
+
+  .body__header-logo {
+    margin-left: -25px;
+    margin-right: 0px;
+    width: 270px;
+  }
+
+  .body__header-navigation {
+    margin-right: -10px;
+  }
+
+  .body__header-search {
+    margin-left: -5px;
+  }
+
+  .body__header-item {
+    padding: 5px 0px 5px 10px;
+  }
+
+  .body__header-h1 {
+    padding-top: 10px;
+    font-size: 25px;
+  }
+
+  .body__header-h2 {
+    font-size: 20px;
+  }
+
+  .body__tabs-container-content-h2 {
+    margin-top: -5px;
+    padding-bottom: 5px;
+  }
+
+  .body__tabs-container-content-image-mango {
+    max-width: 250px;
+    margin: 5px 0px 5px 5px;
+  }
+
+  .body__tabs-container-content-image-photo {
+    max-width: 380px;
+    margin: 5px 5px 0px 0px;
+  }
+
+  .body__tabs-container-comments-userpost-comment{
+    width: 705px;
+  }
+
+  .body__tabs-container-comments-userpost-comment-text{
+    max-width: 650px;
+  }
+
+  .body__tabs-container-comments-form {
+    max-width: 630px;
+    margin-top: 5px;
+    margin-left: 15px;
+  }
+
+  .body__tabs-container-comments{
+    margin-top: -10px;
+  }
+
+  .footer {
+    margin-left: -30px;
+  }
+}

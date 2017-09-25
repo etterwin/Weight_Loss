@@ -1,0 +1,47 @@
+label,
+.body__tabs-container-content-text,
+.body__header-item,
+.body__tabs-container-comments-userpost-comment-text-like,
+.body__tabs-container-comments-userpost-comment-text-reply,
+.body__tabs-container-comments-userpost-comment-username,
+.body__tabs-container-comments-userpost-comment-text,
+.body__tabs-container-comments-userpost-comment-text-number,
+.footer {
+    font-family: sans-serif;
+}
+
+.body__header-h2, .tabs__content-h2 {
+  font-weight: normal;
+}
+
+.body__tabs-container-comments-userpost-comment-username,
+.body__tabs-container-comments-userpost-comment-text-like,
+.body__tabs-container-comments-userpost-comment-text-reply {
+  color: #3266b5;
+}
+
+.body__tabs-container-comments-userpost-comment-text-like,
+.body__tabs-container-comments-userpost-comment-text-reply,
+.body__tabs-container-comments-userpost-comment-text-number,
+.footer {
+  font-size: 10px;
+}
+
+label,
+.body__header-item {
+  font-size: 13px;
+}
+
+.body__tabs-container-comments-userpost-comment-username,
+.body__tabs-container-comments-userpost-comment-text {
+  font-size: 12px;
+}
+
+.footer,
+.body__tabs-container-comments-userpost-comment-text-number {
+  color: #8e8e8e;
+}
+
+.body__tabs-container-content {
+  font-size: 14px;
+}
